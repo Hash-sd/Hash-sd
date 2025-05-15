@@ -8,8 +8,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hash-sd&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-sd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hash-sd&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hash-sd&icon=0&color=0)](https://visitcount.itsvg.in)
