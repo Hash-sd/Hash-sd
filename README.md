@@ -9,10 +9,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-sd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hash-sd&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-sd/Hash-sd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hash-sd/Hash-sd/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hash-sd/Hash-sd/output/github-contribution-grid-snake.svg" />
+</picture>
 ###
 
 ---
